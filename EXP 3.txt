@@ -1,0 +1,30 @@
+# Student Portal Demo
+This is a demo application for a basic student portal. The purpose of this project is to showcase a simple platform where students can:
+
+- View their profiles
+- Access course materials
+- Track attendance and grades
+- Communicate with instructors and peers
+
+## Features (Planned)
+
+- User authentication (student login/logout)
+- Dashboard with personalized student info
+- Course listing with downloadable resources
+- Attendance and performance tracking
+- Messaging or announcement section
+
+## Technologies
+
+- Frontend: React.js (or any framework of your choice)
+- Backend: Node.js + Express / Django / Flask
+- Database: MongoDB / PostgreSQL
+
+## Getting Started
+
+To run this project locally:
+
+bash
+git clone https://github.com/YOUR_USERNAME/student-portal-demo.git
+cd student-portal-demo
+# Follow setup instructions (to be added)
